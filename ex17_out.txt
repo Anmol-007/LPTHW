@@ -1,0 +1,3 @@
+Hello!
+I love Python!:)
+I am learning Python:))

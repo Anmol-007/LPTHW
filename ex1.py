@@ -1,0 +1,6 @@
+print "Hello World!"
+print "Hello Again"
+print "I like typing this"
+#print "I am trying to learn Python :) "
+print "\n"
+print "Good Bye:)"

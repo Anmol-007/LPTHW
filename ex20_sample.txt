@@ -1,0 +1,8 @@
+Marathi
+Tamil
+Telugu
+Bengali
+Gujarati
+Malayalam
+Hindi
+English

@@ -1,0 +1,4 @@
+Hello all!
+This is just a simple sample file.
+I am using it for ex15 from LPTHW.
+Cheers :)
